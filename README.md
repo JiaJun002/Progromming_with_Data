@@ -1,2 +1,2 @@
 # Progromming_with_Data
- Birth Rate: Exploring how the number of live-births of female in a particular age group correlates to the fertility rate in Singapore
+This project focuses on the relationship between Singapore's birth and fertility rates. It primarily investigates how the number of live births among females of certain ages related to the country's total fertility rate.
